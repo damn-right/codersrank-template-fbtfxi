@@ -1,7 +1,6 @@
-// Start with the index.html and start editing.
-index.html
 <html>
 <head>
+<title> first page </title>
 <body>
 <b> hello </b>
 </body>
